@@ -6,6 +6,8 @@ Status - [![Netlify Status](https://api.netlify.com/api/v1/badges/bf2658b2-1b81-
 
 In the project directory, you can run:
 
+ >-  CWBClub is a coding organisation
+
 ### `npm start`
 
 Runs the app in the development mode.\
